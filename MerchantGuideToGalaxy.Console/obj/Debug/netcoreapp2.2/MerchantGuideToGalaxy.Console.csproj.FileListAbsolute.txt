@@ -1,0 +1,14 @@
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.csproj.CoreCompileInputs.cache
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.AssemblyInfoInputs.cache
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.AssemblyInfo.cs
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.deps.json
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.runtimeconfig.json
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.runtimeconfig.dev.json
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.dll
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.pdb
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.dll
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.pdb
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.dll
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.pdb
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.csprojAssemblyReference.cache
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Console\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Console.csproj.CopyComplete

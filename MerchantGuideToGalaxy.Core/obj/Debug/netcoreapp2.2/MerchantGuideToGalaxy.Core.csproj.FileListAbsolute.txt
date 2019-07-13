@@ -1,0 +1,8 @@
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Core\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Core\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.AssemblyInfoInputs.cache
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Core\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.AssemblyInfo.cs
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Core\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.deps.json
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Core\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.dll
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Core\bin\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.pdb
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Core\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.dll
+C:\Projects\Sources\Private\MerchantGuideToGalaxy\MerchantGuideToGalaxy.Core\obj\Debug\netcoreapp2.2\MerchantGuideToGalaxy.Core.pdb
